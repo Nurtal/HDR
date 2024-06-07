@@ -1,5 +1,11 @@
 # Demande d'habilitation à dirigé des recherches
 
+
+## PLACE HOLDER
+
+ * Implication des travaux en psychatrie ?
+ 
+
 ## Plan
  * short shot
  * Introduction
@@ -28,8 +34,22 @@ Utilisation de connaissances pré existantes pour booster les performances des m
 ## Projet Scientifique
 
 ### Axe 1 : Extraction des connaissances
+  - Les connaissances en questions sont encapsulés sous la forme de données non structurée, essentiellement textuelles
+  - besoin de pouvoir extraire ces connaissances depuis des bases comme pubmed, cochrane & other
+  - besoin de pouvoir extraire des connaissances structurées depuis des bases comme KEGG, InnateDB & other
+  - S'appuyer sur récentes avancées en terme de LLM
+  - S'appuyer sur travaux publié du candidat (BIBOT & others stuff)
 
 ### Axe 2 : Utilisation des connaissances
+ - Topologie
+ - GNN
+ - valoriser encadrement des thèses de Clement et Inigo
+ 
 
+## Projet pédagogique
 
-## Projet pédagogique 
+ - Valoriser encadrement de thèse
+ - valoriser cours
+ - prévoir contribution autour de la notion de données & d'information dans le domaine de la recherche et du médical- 
+ - prévoir vulagrisation
+ - prévoir rapprochement fac de lettre avec leurs vision de l'IA 
