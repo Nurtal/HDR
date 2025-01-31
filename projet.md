@@ -6,7 +6,7 @@
 ### Contexte
 - Maladie auto immune
 - complexité de la réponse immunitaire
-- Implication du lymphocyte B en immuno 
+- Implication du lymphocyte B en immuno
 - De plus en plus de techno & données pour décrire les différents acteurs de la réponse immuno (transcriptomique spatiale, imagerie cellulaire, single cell)
 - Besoin de modélisation du système pour proposer une intéprétation fonctionelle de la réponse immuno avec identification des paramètres qui impact cette réponse et donc potenitiellement cible pour régulation réponse
 
@@ -14,7 +14,7 @@
 Les projets de recherche s'inscrivent dans une démarche interdisciplinaire. Ils s'articulent principalement autour de la modélisation de la réponse immunitaire, avec un focus particulier sur le rôle des lymphocytes B.
 - Les modélisations identifiées sont :
     * Maturation des LB
-    * mécanismes d'Ubiquitination de l'IFN, impact sur LB et réponse immuno 
+    * mécanismes d'Ubiquitination de l'IFN, impact sur LB et réponse immuno
 
 ### ODE & multi - agent
 Cette modélisation sera réalisée à l'aide de systèmes d'équations différentielles et d'approches multi-agents.
@@ -39,7 +39,7 @@ Le haut niveau d'interdisciplinarité incarné par ces projets permettra de croi
   - régulation
 
 - avec des approches ODE / PDE / Multi - agent
-- scattering transform 
+- scattering transform
 
 
 
@@ -50,12 +50,8 @@ Le haut niveau d'interdisciplinarité incarné par ces projets permettra de croi
 
 
 
-
-
 ## Extraction de connaissance pré - existante
 - Extrait prior knwoledge via NLP & IA générative
-
-
 
 
 ## résumé du projet à 4 ans
